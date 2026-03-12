@@ -178,8 +178,8 @@ SSH's into the Pi and prints the latest lines from `app.log`, plus tells you if 
 
 | Variable | File | Default |
 |---|---|---|
-| Pi IP address | `deploy.py` | `192.168.0.11` |
-| Pi username | `deploy.py` | `tahmidrashid` |
+| Pi IP address | `deploy.py` | `192.168.X.X` |
+| Pi username | `deploy.py` | `abcdefghijhl` |
 | Pi password | `deploy.py` | *(set in file)* |
 | Remote app dir | `deploy.py` | `~/ReviewerDashboard` |
 | DB path | `database.py` | `~/.local/share/BackgroundFetcher/reviews.sqlite3` |
